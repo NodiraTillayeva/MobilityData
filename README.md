@@ -1,1 +1,1 @@
-# HadoopProjects
+# Hadoop Projects from Amazon Courses
