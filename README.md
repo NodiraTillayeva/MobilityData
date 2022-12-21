@@ -1,6 +1,7 @@
 # Hadoop Projects from Amazon Courses
 
-2) Million Song Dataset Challenge
+Million Song Dataset Challenge
+
 This is a famous Kaggle competition for evaluating a music recommendation system. Users will work on the Million Song Dataset released by the Columbia University’s Lab for Recognition and Organization of Speech and Audio. The dataset consists of metadata and audio features for 1M contemporary and popular songs.
 
 Problem Statement
