@@ -19,4 +19,6 @@ Working with Hierarchical Data Format (HDF5)
 
 [Access solution to the popular Kaggle Challenge- “Million Song Dataset ”](https://www.projectpro.io/project-use-case/music-recommendation-engine)
 
+[Курс по дипу который скинул Улуг](https://github.com/oxford-cs-deepnlp-2017/lectures)
+
 
