@@ -1,6 +1,8 @@
 # Hadoop Projects from Amazon Courses
 
-не пойдет курс платный
+не пойдет курс платный его здесь уже нет Улуг -_-
+
+
 [Курс по дипу который скинул Улуг](https://github.com/oxford-cs-deepnlp-2017/lectures)
 
 
