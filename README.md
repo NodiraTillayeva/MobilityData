@@ -1,8 +1,9 @@
 # Hadoop Projects from Amazon Courses
 
-не пойдет курс платный его здесь уже нет Улуг -_-
-
-
-[Курс по дипу который скинул Улуг](https://github.com/oxford-cs-deepnlp-2017/lectures)
-
-
+Interactive analytics. Amazon Athena.
+Big data processing. Amazon EMR.
+Data warehousing. Amazon Redshift.
+Interactive analytics. Amazon Kinesis.
+Operational analytics. Amazon OpenSearch Service.
+Dashboards and visualizations. Amazon Quicksight.
+Visual data preparation. AWS Glue DataBrew.
